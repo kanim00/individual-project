@@ -1,7 +1,7 @@
 <?php
 $svrname = "localhost";
 $uname = "root";
-$pswd = "";
+$pswd = "Nuclearbomb2.";
 $db ="dabbobi";
 
 // Create connection
